@@ -8,5 +8,5 @@ in your project root, run:
 
 ```sh
 mkdir modules && cd modules
-git clone https://github.com/DemonKingSwarn/LDtkLoader.jai
+git clone https://github.com/DemonKingSwarn/LDtkLoader.jai LDtkLoader
 ```
